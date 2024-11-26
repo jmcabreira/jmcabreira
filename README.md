@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan Cabreira</h1>
+<h1 align="center"> I'm Jonathan Cabreira</h1>
 <h3 align="center">Balancing Data and Endurance: A Dedicated Data Professional and Triathlete Committed to Continuous Performance Improvement</h3>
 
 - 📖 I’m currently improving my **Data Analytics and Platform engineering** skills
