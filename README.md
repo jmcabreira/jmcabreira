@@ -1,7 +1,7 @@
 <h1 align="center"> I'm Jonathan Cabreira</h1>
 <h3 align="center">Balancing Data and Endurance: A Dedicated Data Professional and Triathlete Committed to Continuous Performance Improvement</h3>
 
-- 📖 I’m currently improving my **Data Analytics and AI engineering** skills
+- 📖 I’m currently improving my **Data Analytics and Data engineering** skills
 
 
 - :octocat: My previous GitHub account can be found at: [https://github.com/jmcabreira-zz](https://github.com/jmcabreira-zz)
